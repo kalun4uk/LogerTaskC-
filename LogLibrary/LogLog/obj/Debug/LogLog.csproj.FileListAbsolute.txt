@@ -1,0 +1,8 @@
+c:\users\юрій\documents\visual studio 2015\Projects\LogLog\LogLog\obj\Debug\LogLog.csprojResolveAssemblyReference.cache
+c:\users\юрій\documents\visual studio 2015\Projects\LogLog\LogLog\bin\Debug\LogLog.dll.config
+c:\users\юрій\documents\visual studio 2015\Projects\LogLog\LogLog\bin\Debug\LogLog.dll
+c:\users\юрій\documents\visual studio 2015\Projects\LogLog\LogLog\bin\Debug\LogLog.pdb
+c:\users\юрій\documents\visual studio 2015\Projects\LogLog\LogLog\bin\Debug\Newtonsoft.Json.dll
+c:\users\юрій\documents\visual studio 2015\Projects\LogLog\LogLog\bin\Debug\Newtonsoft.Json.xml
+c:\users\юрій\documents\visual studio 2015\Projects\LogLog\LogLog\obj\Debug\LogLog.dll
+c:\users\юрій\documents\visual studio 2015\Projects\LogLog\LogLog\obj\Debug\LogLog.pdb
